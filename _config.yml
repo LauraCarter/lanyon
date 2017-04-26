@@ -3,8 +3,8 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 
 # Setup
-title:               Laura
-tagline:             'I made a blog. Check me out'
+title:               Justice Laura
+tagline:             'By the power vested in me by R-Ladies London'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://lauracarter.github.io/
 baseurl:             ''
