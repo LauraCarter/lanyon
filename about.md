@@ -9,12 +9,14 @@ I'm also a part-time research student at the University of Essex. I'm part of th
 
 I tweet: @LauraC_AI
 
+This website was built using [Jekyll](http://jekyllrb.com) with the [Poole](https://github.com/poole) theme. I learned how to make it at a session run by R-Ladies London. 
+
 <!---
 ##<p class="message">
 ##  Hey there! This page is included as an example. ##Feel free to customize it for your own use upon downloading. Carry on!
 ##</p>
 
-This website was built using [Jekyll](http://jekyllrb.com) with the [Poole](https://github.com/poole) theme. I learned how to make it at a session run by R-Ladies London. 
+
 
 ## In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
