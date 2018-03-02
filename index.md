@@ -1,5 +1,5 @@
 ---
-title: "index.md"
+<!---title: "index.md"--->
 author: "Laura Carter"
 date: "02/03/2018"
 output: html_document
