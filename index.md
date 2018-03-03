@@ -3,6 +3,7 @@
 author: "Laura Carter"
 date: "02/03/2018"
 output: html_document
+layout: home
 ---
 
 
